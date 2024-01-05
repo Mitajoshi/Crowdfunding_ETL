@@ -7,6 +7,9 @@ Overview
 Purpose
 The final goal was to store the clean data into a SQL database by first creating an ERD and it's schema and then verifying the sucessful storage of data. 
 
+![Local Image](crowdfunding_db_ERD.png)
+
+
 The above is performed using the following steps:-
 
 Prerequisite:
