@@ -1,21 +1,22 @@
 # Crowdfunding_ETL
 
-#Overview
+## Overview
 
  In this project the Extraction-Transform-Load methodoly was utilized to process obtained raw data using. This was achieved by mainly incorporating the pandas and the regex Python programming approaches to transform and clean data to the desired format for ease of use.
 
-#Purpose
+## Purpose
+
 The final goal was to store the clean data into a SQL database by first creating an ERD and it's schema and then verifying the sucessful storage of data. 
 
 ![Local Image](crowdfunding_db_ERD.png)
 
 
 
-#Instructions:
+## Instructions:
 
 The above is performed using the following steps:-
 
-##Prerequisite:
+### Prerequisite:
 Get started by cloning the repo to the local machine. 
 
 Follow the below steps to run the program successfully:
